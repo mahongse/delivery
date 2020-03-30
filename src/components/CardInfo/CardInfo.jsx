@@ -13,7 +13,7 @@ const useStyles = makeStyles(theme => ({
   root: {
     width: 360,
     cursor: 'pointer',
-    margin: 20,
+    margin: 8,
     backgroundColor: '#E1E4E4',
   },
   content: {
@@ -49,13 +49,13 @@ const useStyles = makeStyles(theme => ({
   activeRoot: {
     width: 360,
     cursor: 'pointer',
-    margin: 20,
+    margin: 8,
     backgroundColor: '#fff'
   },
   doneRoot: {
     width: 360,
     cursor: 'pointer',
-    margin: 20,
+    margin: 8,
     backgroundColor: '#56666B',
     color: '#fff'
   },
