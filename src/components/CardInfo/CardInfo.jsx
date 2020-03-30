@@ -11,7 +11,7 @@ import Divider from '@material-ui/core/Divider';
 
 const useStyles = makeStyles(theme => ({
   root: {
-    width: 360,
+    width: 350,
     cursor: 'pointer',
     margin: 8,
     backgroundColor: '#E1E4E4',
@@ -47,13 +47,13 @@ const useStyles = makeStyles(theme => ({
     marginRight: 50,
   },
   activeRoot: {
-    width: 360,
+    width: 350,
     cursor: 'pointer',
     margin: 8,
     backgroundColor: '#fff'
   },
   doneRoot: {
-    width: 360,
+    width: 350,
     cursor: 'pointer',
     margin: 8,
     backgroundColor: '#56666B',
